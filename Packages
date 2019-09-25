@@ -1,0 +1,12 @@
+Package: io.smacpats.emojiportinstaller
+Version: 1.2
+Section: Tweaks
+Maintainer: PatrickPro
+Depends: com.ps.emojiportwt, mobilesubstrate, firmware (>> 9.3.5)
+Architecture: iphoneos-arm
+Filename: ./debs/emojiport-installer-iOS13.deb
+Size: 43998584
+MD5sum: 4e447025c4166c518484f667cc73f90c
+Description: Install emojiport and iOS 13.1 emojis automatically
+Name: EmojiPort Installer iOS 13.1
+Author: PatrickPro
